@@ -113,15 +113,15 @@ Ejercicio 3
 
 1.  Screenshot de la resolución:
 
-![No se encontró la imagen](Images/3.1.JPG)
+![No se encontró la imagen](Images/3.1.jpg)
 
 2.  Screenshot de la resolución:
 
-![No se encontró la imagen](Images/3.2.JPG)
+![No se encontró la imagen](Images/3.2.jpg)
 
 3.  Screenshot de la resolución:
 
-![No se encontró la imagen](Images/3.3.JPG)
+![No se encontró la imagen](Images/3.3.jpg)
 
 La diferencia entre la llamada del punto 1 y la del punto 3, se da cuando se realiza el POST, ya que ahí se ingresa nuestro nombre y email nuestro, el cual lo establecimos en el body del verbo HTTP. Entonces, cuando se realiza el GET nuevamente, en la respuesta se ve reflejado la información que nosotros agregamos, en este caso, nuestro nombre y email.
 
@@ -202,7 +202,7 @@ Ejercicio 5
 
 **RELACIONES ENTRE LOS OBJETOS**: En base a la observación y el análisis de las relaciones entre los objetos mediante la herramienta Schema Builder de Salesforce, obtuve el siguiente diagrama.
 
-![No se encontró la imagen](Images/diagram.JPG)
+![No se encontró la imagen](Images/diagram.jpg)
 
 Para poder realizar este diagrama, utilice otro diagrama más extenso y preciso de la relación de objetos estándar de Salesforce. [Sales Cloud Data Model](https://architect.salesforce.com/1/asset/immutable/s/a566708/assets/images/data-models/sales-cloud-overview-data-model.png) y [Product & Price Book Data Model](https://architect.salesforce.com/1/asset/immutable/s/694cdeb/assets/images/data-models/sales-cloud-product-price-book-data-model.png)
 
