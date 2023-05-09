@@ -320,3 +320,8 @@ SalesForce es un ERP ya que comparte la misma base de datos independientemente d
 Ejercicio 7
 ------------------
 
+![No se encontró la imagen](Images/7.1.jpg)
+
+![No se encontró la imagen](Images/7.2.jpg)
+
+![No se encontró la imagen](Images/7.3.jpg)
